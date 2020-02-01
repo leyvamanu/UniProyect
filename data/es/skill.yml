@@ -1,0 +1,26 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Nuestras habilidades
+  subtitle : Somos expertos en una amplia gama de herramientas web y otras herramientas de mercado digital.
+  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  image : images/about/company-growth.webp
+  skill_item :
+    # skill item loop
+    - name :  Desarrollo de negocios
+      percent : 90%
+      
+    # skill item loop
+    - name :  Analisis
+      percent : 70%
+      
+    # skill item loop
+    - name :  Diseño
+      percent : 80%
+      
+    - name :  Desarrollo IOS
+      percent : 95%
+      
+    # skill item loop
+    - name :  Desarrollo Android
+      percent : 75%
