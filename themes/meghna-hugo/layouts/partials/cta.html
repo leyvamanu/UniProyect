@@ -9,8 +9,8 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12 text-center">
-				<h2>{{ .title | markdownify }}</h2>
-				<p>{{ .content | markdownify }}</p>
+				<h2 class="text-white">{{ .title | markdownify }}</h2>
+				<p class="text-white">{{ .content | markdownify }}</p>
 				{{ if .button.enable }}
 				{{ with .button }}
 				<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
