@@ -12,6 +12,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/blog/simple-blog-post-8/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://examplesite.com/fr/blog/simple-blog-post-8/"
                 />
@@ -24,6 +29,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://examplesite.com/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -42,6 +52,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/blog/installation/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://examplesite.com/fr/blog/installation/"
                 />
@@ -54,6 +69,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://examplesite.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -72,6 +92,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/blog/simple-blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://examplesite.com/fr/blog/simple-blog-post-1/"
                 />
@@ -84,6 +109,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://examplesite.com/blog/simple-blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/blog/simple-blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -102,6 +132,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/blog/simple-blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://examplesite.com/fr/blog/simple-blog-post-3/"
                 />
@@ -114,6 +149,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://examplesite.com/blog/simple-blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/blog/simple-blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -132,6 +172,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/blog/simple-blog-post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://examplesite.com/fr/blog/simple-blog-post-5/"
                 />
@@ -144,6 +189,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://examplesite.com/blog/simple-blog-post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/blog/simple-blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -162,6 +212,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/blog/simple-blog-post-7/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://examplesite.com/fr/blog/simple-blog-post-7/"
                 />
@@ -173,6 +228,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://examplesite.com/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/author/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -190,6 +250,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://examplesite.com/fr/categories/"
                 />
@@ -201,6 +266,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://examplesite.com/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -218,6 +288,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://examplesite.com/fr/author/mark-dinn/"
                 />
@@ -229,6 +304,11 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://examplesite.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://examplesite.com/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"

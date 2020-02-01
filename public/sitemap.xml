@@ -15,4 +15,11 @@
 		
 	</sitemap>
 	
+	<sitemap>
+	   	<loc>https://examplesite.com/es/sitemap.xml</loc>
+		
+	   	<lastmod>2018-09-12T14:51:12+06:00</lastmod>
+		
+	</sitemap>
+	
 </sitemapindex>
