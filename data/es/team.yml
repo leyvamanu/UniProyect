@@ -1,10 +1,10 @@
 ############################### team ############################
 team:
   enable : true
-  title : Our Team
+  title : Nuestro Equipo
   team_member :
     # team member loop
-    - name : Manuel Leyva
+    - name : Carlos Litwiniuk 
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : CEO/Founder
@@ -20,7 +20,7 @@ team:
           link : "#"
         
     # team member loop
-    - name : Frank Miller
+    - name : Jose Luis Sánchez
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
       designation : Manager
@@ -36,7 +36,7 @@ team:
           link : "#"
         
     # team member loop
-    - name : Michael Jonson
+    - name : Manuel Leyva
       image_webp : images/team/team-3.webp
       image : images/team/team-3.jpg
       designation : Web Developer
