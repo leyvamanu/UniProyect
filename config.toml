@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://examplesite.com"
-title = "Meghna"
+title = "UniProyect"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -9,7 +9,9 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+defaultContentLanguage = "es" # used for file names
+defaultContentLanguageInSubdir = true
+disableLanguages = ["en"]
 
 ############################# Plugins ##########################
 # css plugins
@@ -55,10 +57,10 @@ name = "Service"
 URL = "services"
 weight = 2
 
-[[menu.main]]
-name = "Portfolio"
-URL = "portfolio"
-weight = 3
+#[[menu.main]]
+#name = "Portfolio"
+#URL = "portfolio"
+#weight = 3
 
 [[menu.main]]
 name = "Team"
@@ -70,10 +72,10 @@ name = "Pricing"
 URL = "pricing"
 weight = 5
 
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 6
+#[[menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 6
 
 [[menu.main]]
 name = "Contact"
@@ -84,14 +86,14 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/logo-letras.png"
 # Meta data
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
 # Google Analitycs
 google_analitycs_id = "" # Your ID
 # post share
-post_share = true
+post_share = false
 
 # preloader
 [params.preloader]
@@ -131,27 +133,26 @@ link = "#"
 icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
+################################ Spanish Language ########################
+[Languages.es]
+languageName = "Es"
+languageCode = "es-es"
+contentDir = "content/spanish"
+weight = 1
+home = "Inicio"
+
+################################ English Language ########################
+[Languages.ca]
+languageName = "Ca"
+languageCode = "ca"
+contentDir = "content/catala"
+weight = 2
+home = "Home"
 
 ################################ English Language ########################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 1
-home = "Home"
-
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-
-################################ Spanish Language ########################
-[Languages.es]
-languageName = "ES"
-languageCode = "es-es"
-contentDir = "content/spanish"
 weight = 3
-home = "Inicio"
+home = "Home"

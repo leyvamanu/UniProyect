@@ -1,6 +1,6 @@
 ################################# funfacts ##################################
 funfacts:
-  enable : true
+  enable : false
   bg_image : "images/backgrounds/grayscale-brickwall.jpg"
   bg_image_webp : "images/backgrounds/grayscale-brickwall.webp"
   counter_item:
