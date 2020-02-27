@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://www.uniproyect.com"
 title = "UniProyect"
 theme = "meghna-hugo"
 # post pagination
