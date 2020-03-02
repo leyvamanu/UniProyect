@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://uniproyect.com"
 title = "UniProyect"
 theme = "meghna-hugo"
 # post pagination
@@ -67,10 +67,10 @@ name = "Equipo"
 URL = "team"
 weight = 4
 
-[[menu.main]]
-name = "Precio"
-URL = "pricing"
-weight = 5
+#[[menu.main]]
+#name = "Precio"
+#URL = "pricing"
+#weight = 5
 
 #[[menu.main]]
 #name = "Blog"
