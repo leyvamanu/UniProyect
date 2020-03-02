@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://www.uniproyect.com"
+baseURL = "https://examplesite.com"
 title = "UniProyect"
 theme = "meghna-hugo"
 # post pagination
@@ -48,12 +48,12 @@ link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
 [[menu.main]]
-name = "About Us"
+name = "Sobre Nosotros"
 URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "Service"
+name = "Servicios"
 URL = "services"
 weight = 2
 
@@ -63,12 +63,12 @@ weight = 2
 #weight = 3
 
 [[menu.main]]
-name = "Team"
+name = "Equipo"
 URL = "team"
 weight = 4
 
 [[menu.main]]
-name = "Pricing"
+name = "Precio"
 URL = "pricing"
 weight = 5
 
@@ -78,11 +78,9 @@ weight = 5
 #weight = 6
 
 [[menu.main]]
-name = "Contact"
+name = "Contacto"
 URL = "contact"
 weight = 7
-
-
 
 ############################# Default Parameters ##########################
 [params]

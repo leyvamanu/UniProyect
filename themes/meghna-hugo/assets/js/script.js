@@ -151,18 +151,5 @@ jQuery(function ($) {
 	$(window).on('scroll', function () {
 		counter();
 	});
-    $("form").submit(function () {
-        console.log('HOla');
-        var templateParams = {
-            name: 'James',
-            notes: 'Check this out!'
-        };
-        emailjs.send('gmail', 'template_b9981Dca', templateParams)
-                .then(function (response) {
-                    console.log('SUCCESS!', response.status, response.text);
-                }, function (error) {
-                    console.log('FAILED...', error);
-                });
-    });
 
 });

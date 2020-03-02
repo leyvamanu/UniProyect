@@ -15,7 +15,7 @@
 - id: all
   translation: Todo
 - id: copyright
-  translation: copyright &copy; 2020 [DevelCoop](https://www.develcoop.com) todos los derechos reservados.
+  translation: copyright &copy; 2020 [Uniproyect](https://www.uniproyect.com) todos los derechos reservados.
 - id: name
   translation: Tu Nombre
 - id: email

@@ -4,13 +4,13 @@ about:
   title : Sobre nosotros
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : Somos creativos
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Diseño y flexibilidad
+    content : Creemos que la mejor manera de ayudar a nuestros clientes es comprender sus necesidades y darle soluciones únicas a los problemas que nos plantean.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : Somos profesionales
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Liderazgo
+    content : La capacidad de gestionar proyectos nos permite obtener mayor rendimiento acortando los plazos de entrega a los que nos comprometemos.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Somos unos genios
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Innovación y creatividad
+    content : Una de las claves para ser únicos es nuestra capacidad de innovar y crear productos nuevos cada día.

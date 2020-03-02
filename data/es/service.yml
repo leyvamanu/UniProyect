@@ -4,31 +4,31 @@ service:
   title : Nuestros servicios
   service_item :
     # service item loop
-    - name : Tema de WordPress
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Diseño Responsivo
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Medios &amp; Publicidad
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Diseño Grafico
+    - name : Diseño web a medida
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Adaptamos tus ideas a tu web para crear proyectos únicos, utilizando las tecnologías que mejor se adaptan en cada momento.
+      
+    # service item loop
+    - name : Tiendas online
+      icon : ti-wordpress # themify icon pack : https://themify.me/themify-icons
+      content : Nos enfocamos en utilizar CMS tan populares como Wordpress o Prestashop para crear mejores tiendas online y que te permitan alcanzar tus metas.
+      
+    # service item loop
+    - name : Posicionamiento SEO
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Diseñamos estrategias para aumentar el tráfico de las webs para que alcancen un mejor posiconamiento en los buscadores.
+      
+    # service item loop
+    - name : Márketing digital
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Trabajamos el márketing digital a travéz de ascpectos como son el branding digital, la publicidad online o la monetización de sitios webs.
       
     # service item loop
     - name : Desarrollo de Apps
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      content : Desarrollamos proyectos webs y móviles que integran lo mejor de ambos sistemas para que tu proyecto esté siempre a la última. 
       
     # service item loop
-    - name : Redes
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : ERP y CRM
+      icon : ti-server # themify icon pack : https://themify.me/themify-icons
+      content : Utilizamos soluciones Open Source para poder ofrecerte soluciones a medida de lo que necesitas a un precio totalmente accesible.
