@@ -1,20 +1,20 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Nuestro Contacto
-  subtitle : Detalles de Contacto
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title : Contacta'ns
+  subtitle : Detalls de Contacte
+  content : Envia'ns un missatge a través del nostre formulari i ens posarem en contacte amb tu el més aviat possible.
   form_action: "#" #contact form works with https://formspree.io
 
   contact_details :
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+#    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+#      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+      info : "Phone: +34 641 86 74 79"
       
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
+#    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
+#      info : "Fax: +880-31-000-000"
       
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: uniproyect@protonmail.com"

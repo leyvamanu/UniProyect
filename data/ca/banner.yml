@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/grayscale-laptop.webp"
   bg_image : "images/backgrounds/grayscale-laptop.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Desenvolupa el teu projecte"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "Convertim el teu projecte web en únic"
+  content : "Ara tens l'oportunitat de tenir una web única i especial a l'altura del que et mereixes."
   button:
     enable : true
-    label : "Explorans"
+    label : "Com ho fem?"
     link : "#services"

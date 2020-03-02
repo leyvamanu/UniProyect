@@ -1,7 +1,7 @@
 ############################### team ############################
 team:
   enable : true
-  title : Nuestro Equipo
+  title : El nostre Equip
   team_member :
     # team member loop
     - name : Carlos Litwiniuk 

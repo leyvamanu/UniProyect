@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/typewriter.jpg
   image_webp : images/about/typewriter.webp
-  title : Soms una agencia de diseny digital.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Ens enfoquem en el que en realitat importa.
+  content : "Treballem sobre quatre punts claus per crear un lloc web professional i optimitzat per estar ben posicionat a Google i altres cercadors:"
   feature_item : 
       # feature item loop
-    - title : SEO optimitzat
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Disseny
+      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      content : Contribuïm a millorar la marca a través d'una estètica creativa i atractiva.
       
       # feature item loop
-    - title : Fácil personalització
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Usabilitat web
+      icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+      content : Millorem que la usabilitat sigui intuïtiva i orientada a conversions perquè sigui més eficáz als usuaris del lloc web.
 
       # feature item loop
-    - title : SEO optimitzat
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Arquitectura de la informació
+      icon : ti-layout-media-overlay # themify icon pack : https://themify.me/themify-icons
+      content : Optimització de l'arquitectura web sota criteris SEO per facilitar el posicionament orgànic i atreure tràfic qualificat.
       
       # feature item loop
-    - title : Fácil personalització
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Contingut optimitzat
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Contingut del web directe, concís i de fàcil enteniment per als cercadors. Amb "crides a l'acció" per facilitar a l'usuari la seva navegació.

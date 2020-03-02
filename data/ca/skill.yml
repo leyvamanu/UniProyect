@@ -2,25 +2,26 @@
 skill:
   enable : true
   title : Les nostres habilitats
-  subtitle : Som experts en una amplia gama de eines web i altres eines del mercat digital
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/company-growth.webp
+  subtitle : Les habilitats de les disposem són totalment complementàries.
+  content : Ens centrem en tecnologies i maneres de pensar molt diferents dins d'el desenvolupament web. Això ens permet trobar solucions diferents i úniques a problemes complexos.
+
+
   skill_item :
     # skill item loop
-    - name :  Desenvolupament de negoci
+    - name :  Model de negocis
       percent : 90%
       
     # skill item loop
-    - name :  Anàlisi
+    - name :  Anàlisi i estructura de dades
+      percent : 75%
+      
+    # skill item loop
+    - name :  Disseny UX / UI
+      percent : 90%
+      
+    - name :  Desenvolupament IOS
       percent : 70%
       
     # skill item loop
-    - name :  Diseny
-      percent : 80%
-      
-    - name :  Desenvolupament IOS
-      percent : 95%
-      
-    # skill item loop
     - name :  Desenvolupament Android
-      percent : 75%
+      percent : 95%
