@@ -44,7 +44,7 @@ team:
       image_webp : images/team/team-3.webp
       image : images/team/team-3.jpg
       designation : Fundador/Desarrollador Web/Bases de Datos
-      content : Experto en desarrollo web, especializado en la parte BackEnd de los proyectos y en bases de datos.
+      content : Experto en desarrollo web, especializado en la parte backend de los proyectos y en bases de datos.
       social :
 #        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
 #          link : "#"

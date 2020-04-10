@@ -2,7 +2,7 @@
 skill:
   enable : true
   title : Nuestras habilidades
-  subtitle : Las habilidades de las due disponemos son totalmente complementarias.
+  subtitle : Las habilidades de las que disponemos son totalmente complementarias.
   content : Nos centramos en tecnologías y maneras de pensar muy diferentes dentro del desarrollo web. Esto nos permite encontrar soluciones diferentes y únicas a problemas complejos.
 
 
@@ -12,7 +12,7 @@ skill:
       percent : 90%
       
     # skill item loop
-    - name :  Analisis y estructura de datos
+    - name :  Análisis y estructura de datos
       percent : 75%
       
     # skill item loop

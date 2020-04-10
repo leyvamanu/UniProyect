@@ -3,7 +3,7 @@ feature:
   enable : true
   image : images/about/typewriter.jpg
   image_webp : images/about/typewriter.webp
-  title : Ens enfoquem en el que en realitat importa.
+  title : Ens enfoquem en el que en realitat importa
   content : "Treballem sobre quatre punts claus per crear un lloc web professional i optimitzat per estar ben posicionat a Google i altres cercadors:"
   feature_item : 
       # feature item loop
@@ -14,7 +14,7 @@ feature:
       # feature item loop
     - title : Usabilitat web
       icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-      content : Millorem que la usabilitat sigui intuïtiva i orientada a conversions perquè sigui més eficáz als usuaris del lloc web.
+      content : Millorem que la usabilitat sigui intuïtiva i orientada a conversions perquè sigui més eficaç als usuaris del lloc web.
 
       # feature item loop
     - title : Arquitectura de la informació
@@ -24,4 +24,4 @@ feature:
       # feature item loop
     - title : Contingut optimitzat
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Contingut del web directe, concís i de fàcil enteniment per als cercadors. Amb "crides a l'acció" per facilitar a l'usuari la seva navegació.
+      content : Contingut de la web directe, concís i de fàcil enteniment per als cercadors. Amb "crides a l'acció" per facilitar a l'usuari la seva navegació.

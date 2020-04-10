@@ -6,12 +6,12 @@ service:
     # service item loop
     - name : Diseño web a medida
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Adaptamos tus ideas a tu web para hacer de ella un  proyecto únicos, utilizando las tecnologías que mejor se adaptan en cada momento.
+      content : Adaptamos tus ideas a tu web para hacer de ella un  proyecto único, utilizando las tecnologías que mejor se adaptan en cada momento.
       
     # service item loop
     - name : Tiendas online
       icon : ti-wordpress # themify icon pack : https://themify.me/themify-icons
-      content : Nos enfocamos en utilizar CMS tan populares como Wordpress o Prestashop para crear mejores tiendas online y que te permitan alcanzar tus metas.
+      content : Nos enfocamos en utilizar CMS tan populares como Wordpress o Prestashop para crear mejores tiendas online que te permitan alcanzar tus metas.
       
     # service item loop
     - name : Posicionamiento SEO
@@ -21,7 +21,7 @@ service:
     # service item loop
     - name : Márketing digital
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Trabajamos el márketing digital a travéz de ascpectos como son el branding digital, la publicidad online o la monetización de sitios webs.
+      content : Trabajamos el márketing digital a través de aspectos como son el branding digital, la publicidad online o la monetización de sitios webs.
       
     # service item loop
     - name : Desarrollo de Apps
@@ -31,4 +31,4 @@ service:
     # service item loop
     - name : ERP y CRM
       icon : ti-server # themify icon pack : https://themify.me/themify-icons
-      content : Utilizamos soluciones Open Source para poder ofrecerte soluciones a medida de lo que necesitas a un precio totalmente accesible.
+      content : Utilizamos herramientas Open Source para poder ofrecerte soluciones a medida de lo que necesitas a un precio totalmente accesible.

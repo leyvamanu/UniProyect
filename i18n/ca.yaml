@@ -15,7 +15,7 @@
 - id: all
   translation: Todo
 - id: copyright
-  translation: copyright &copy; 2020 [DevelCoop](https://www.develcoop.com) todos los derechos reservados.
+  translation: Copyright &copy; 2020 [DevelCoop](https://www.develcoop.com) tots els drets reservats.
 - id: name
   translation: El teu nom
 - id: email

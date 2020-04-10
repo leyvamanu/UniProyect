@@ -3,8 +3,8 @@ cta:
   enable : true
   bg_image : "images/backgrounds/grayscale-brickwall.jpg"
   bg_image_webp : "images/backgrounds/grayscale-brickwall.webp"
-  title : "Gran diseny i caracteristiques increibles"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Gran diseny i caracteristiques increïbles"
+  #content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
   button:
     enable : true
     label : "Começa un projecte amb nosaltres"

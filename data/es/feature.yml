@@ -3,7 +3,7 @@ feature:
   enable : true
   image : images/about/typewriter.jpg
   image_webp : images/about/typewriter.webp
-  title : Nos enfocamos en lo que en realidad importa.
+  title : Nos enfocamos en lo que en realidad importa
   content : "Trabajamos sobre cuatro puntos claves para crear un sitio web profesional y optimizado para estar bien posicionado en Google y otros buscadores:"
   feature_item : 
       # feature item loop
@@ -14,7 +14,7 @@ feature:
       # feature item loop
     - title : Usabilidad web
       icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-      content : Mejoramos que la usabilidad sea intuitiva y orientada a conversiones para que sea más eficáz a los usuarios del sitio web.
+      content : Mejoramos que la usabilidad sea intuitiva y orientada a conversiones para que sea más eficaz a los usuarios del sitio web.
 
       # feature item loop
     - title : Arquitectura de la información

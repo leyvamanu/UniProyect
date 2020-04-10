@@ -10,8 +10,8 @@ contact:
 #    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
 #      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
       
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +34 641 86 74 79"
+#    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+#      info : "Phone: +34 641 86 74 79"
       
 #    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
 #      info : "Fax: +880-31-000-000"
