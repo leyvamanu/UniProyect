@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Diseño web a medida
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Adaptamos tus ideas a tu web para crear proyectos únicos, utilizando las tecnologías que mejor se adaptan en cada momento.
+      content : Adaptamos tus ideas a tu web para hacer de ella un  proyecto únicos, utilizando las tecnologías que mejor se adaptan en cada momento.
       
     # service item loop
     - name : Tiendas online
@@ -16,7 +16,7 @@ service:
     # service item loop
     - name : Posicionamiento SEO
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Diseñamos estrategias para aumentar el tráfico de las webs para que alcancen un mejor posiconamiento en los buscadores.
+      content : Diseñamos estrategias para aumentar el tráfico de las webs para que alcancen un mejor posiconamiento en los buscadores de internet.
       
     # service item loop
     - name : Márketing digital

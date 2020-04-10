@@ -16,12 +16,12 @@ service:
     # service item loop
     - name : Posicionament SEO
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Dissenyem estratègies per augmentar el trànsit de les webs perquè assoleixin un millor posiconamiento en els cercadors.
+      content : Dissenyem estratègies per augmentar el trànsit de les webs perquè assoleixin un millor posiconamiento en els cercadors d'internet.
       
     # service item loop
     - name : Màrqueting digital
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Treballem el màrqueting digital a travéz d'ascpectos com són el branding digital, la publicitat en línia o la monetització de llocs webs.
+      content : Treballem el màrqueting digital a través d'ascpectes com el branding digital, la publicitat en línia o la monetització de llocs.
       
     # service item loop
     - name : Desenvolupament d'Apps
@@ -31,4 +31,4 @@ service:
     # service item loop
     - name : ERP y CRM
       icon : ti-server # themify icon pack : https://themify.me/themify-icons
-      content : Utilitzem solucions Open Source per a poder oferir solucions a mida del que necessites a un preu totalment accessible.
+      content : Utilitzem solucions Open Source per a poder oferir solucions a mida del que necessita el teu projecte a un preu totalment accessible.

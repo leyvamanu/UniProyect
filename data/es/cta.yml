@@ -4,7 +4,7 @@ cta:
   bg_image : "images/backgrounds/grayscale-brickwall.jpg"
   bg_image_webp : "images/backgrounds/grayscale-brickwall.webp"
   title : "Gran diseño y características increíbles"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  ##content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
   button:
     enable : true
     label : "Empieza un proyecto con nosotros"

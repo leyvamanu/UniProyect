@@ -10,7 +10,7 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 defaultContentLanguage = "es" # used for file names
-defaultContentLanguageInSubdir = true
+#defaultContentLanguageInSubdir = true
 disableLanguages = ["en"]
 
 ############################# Plugins ##########################
@@ -46,7 +46,7 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 
-############################# Navigation ##################################
+############################# Navigation Español ##################################
 [[menu.main]]
 name = "Sobre Nosotros"
 URL = "about"
@@ -107,29 +107,29 @@ map_longitude = "-0.1622023"
 map_marker = "images/marker.png"
 
 ############################# social icons ##########################
-[[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
+#
+#[[params.social]]
+#icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
+#
+#[[params.social]]
+#icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
+#
+#[[params.social]]
+#icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
+#
+#[[params.social]]
+#icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
+#
+#[[params.social]]
+#icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
 ################################ Spanish Language ########################
 [Languages.es]
@@ -139,13 +139,49 @@ contentDir = "content/spanish"
 weight = 1
 home = "Inicio"
 
-################################ English Language ########################
+################################ Catalan Language ########################
 [Languages.ca]
 languageName = "Ca"
 languageCode = "ca"
 contentDir = "content/catala"
 weight = 2
-home = "Home"
+home = "Inici"
+
+############################# Navigation Catalan ##################################
+[[Languages.ca.menu.main]]
+name = "Sobre Nosaltres"
+URL = "about"
+weight = 1
+
+[[Languages.ca.menu.main]]
+name = "Serveis"
+URL = "services"
+weight = 2
+
+#[[Languages.ca.menu.main]]
+#name = "Portfolio"
+#URL = "portfolio"
+#weight = 3
+
+[[Languages.ca.menu.main]]
+name = "Equip"
+URL = "team"
+weight = 4
+
+#[[Languages.ca.menu.main]]
+#name = "Precio"
+#URL = "pricing"
+#weight = 5
+
+#[[Languages.ca.menu.main]]
+#name = "Blog"
+#URL = "blog"
+#weight = 6
+
+[[Languages.ca.menu.main]]
+name = "Contacte"
+URL = "contact"
+weight = 7
 
 ################################ English Language ########################
 [Languages.en]
