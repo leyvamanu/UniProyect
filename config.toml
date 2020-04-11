@@ -89,7 +89,7 @@ logo = "images/logo-letras.png"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
 # Google Analitycs
-google_analitycs_id = "" # Your ID
+google_analitycs_id = "UA-163324892-1" # Your ID
 # post share
 post_share = false
 

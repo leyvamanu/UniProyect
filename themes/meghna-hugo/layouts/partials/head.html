@@ -23,20 +23,4 @@
     <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
     <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
 
-    {{ "<!-- EmailJS -->" | safeHTML }}
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.4.1/dist/email.min.js"></script>
-    <script type="text/javascript">
-        (function () {
-            emailjs.init('user_eUy4bBvY6yrtUn0yEIaQJ');
-        })();
-    </script>
-    <script type="text/javascript">
-        window.onload = function () {
-            document.getElementById('contact-form').addEventListener('submit', function (event) {
-                event.preventDefault();
-                emailjs.sendForm('gmail', 'contact_form', this);
-            });
-        }
-    </script>
-
 </head>
