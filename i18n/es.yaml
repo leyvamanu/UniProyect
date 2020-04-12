@@ -28,3 +28,9 @@
   translation: Mensaje enviado con exito.
 - id: alert-error
   translation: El mensaje NO se ha podido enviar.
+- id: cookies
+  translation: Este sitio web utiliza cookies.
+- id: cookies-ok
+  translation: Esta bien
+- id: cookies-info
+  translation: Mas información

@@ -24,6 +24,18 @@
 			</div>
 		</div>
 	</div>
+        <div id="cookieConsent">
+                {{ i18n "cookies" }}<a href="#" target="_blank">{{ i18n "cookies-info" }}</a>.
+
+
+                <button id="closeCookieConsent" type="button" class="close m-2 text-white float-right" aria-label="Close">
+                    <span>&times;</span>
+                </button>
+
+                <a class="cookieConsentOK float-right">
+                    <button class="btn btn-main">{{ i18n "cookies-ok" }}</button>
+                </a>
+        </div> 
 </footer>
 {{"<!-- /footer -->" | safeHTML}}
 
@@ -67,6 +79,10 @@
 
 {{ "<!-- Main Contact -->" | safeHTML }}
 {{ $script := resources.Get "js/contact.js" | minify}}
+<script src="{{ $script.Permalink }}"></script>
+
+{{ "<!-- Main Cookie Banner -->" | safeHTML }}
+{{ $script := resources.Get "js/cookie-banner.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>

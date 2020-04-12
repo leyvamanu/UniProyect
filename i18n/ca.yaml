@@ -30,3 +30,9 @@
   translation: Missatge enviat amb èxit.
 - id: alert-error
   translation: El missatge NO s'ha pogut enviar.
+- id: cookies
+  translation: Aquest lloc web utilitza cookies.
+- id: cookies-ok
+  translation: Esta be
+- id: cookies-info
+  translation: Més informació
