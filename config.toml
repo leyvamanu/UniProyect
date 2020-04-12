@@ -45,6 +45,8 @@ link = "plugins/wow/wow.min.js"
 link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
+[[params.plugins.js]]
+link = "plugins/email/email.min.js"
 
 ############################# Navigation Español ##################################
 [[menu.main]]

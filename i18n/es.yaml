@@ -24,3 +24,5 @@
   translation: Asunto
 - id: message
   translation: Mensaje
+- id: alert
+  translation: Mensaje enviado con exito.

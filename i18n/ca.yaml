@@ -24,3 +24,5 @@
   translation: Assumpte
 - id: message
   translation: Missatge
+- id: alert
+  translation: Missatge enviat amb èxit.

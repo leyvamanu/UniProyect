@@ -32,6 +32,12 @@
 
 			{{"<!-- Contact Form -->" | safeHTML}}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
+                                <div class="alert alert-primary alert-dismissible fade show" role="alert">
+                                    {{ i18n "alert" }}
+                                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
 				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action | safeURL }}" role="form">
 					<input name="e-mail" type="text" id="e-mail" autocomplete="off">
 					<div class="form-group">
@@ -46,11 +52,19 @@
 					<div class="form-group">
 						<textarea rows="6" placeholder="{{ i18n "message" }}" class="form-control" name="message" id="message" required=""></textarea>
 					</div>
-					<div id="cf-submit">
-						<button type="submit" id="contact-submit" class="btn btn-transparent btn-block" value="Submit">{{ i18n "submit" }}</button>
-					</div>
-                                        <div class="g-recaptcha" data-sitekey="6LeKpegUAAAAAMVED0vqQFgEcezFu07Zj1GKA3IQ"></div>
-
+					
+                                        <div class="container">
+                                            <div class="row">
+                                                <div class="col-sm">
+                                                    <div class="g-recaptcha" data-sitekey="6LeKpegUAAAAAMVED0vqQFgEcezFu07Zj1GKA3IQ"></div>
+                                                </div>
+                                                <div class="col-sm">
+                                                    <div id="cf-submit"  class="d-flex align-items-stretch">
+                                                        <button type="submit" id="contact-submit" class="btn btn-transparent btn-block mt-3" value="Submit">{{ i18n "submit" }}</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
 				</form>
 			</div>
 		</div>

@@ -60,28 +60,13 @@
 </script>
 {{ end }}
 
-{{ "<!-- EmailJS -->" | safeHTML }}
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.4.1/dist/email.min.js"></script>
-<script type="text/javascript">
-    (function () {
-        emailjs.init('user_2T3vXgPtAE1omvimOM7zl');
-    })();
-</script>
-<script type="text/javascript">
-    window.onload = function () {
-        document.getElementById('contact-form').addEventListener('submit', function (event) {
-            event.preventDefault();
-            emailjs.sendForm('gmail', 'contact_form', this).then(function(response) {
-                console.log('SUCCESS!', response.status, response.text);
-             }, function(error) {
-                console.log('FAILED...', error);
-             });
-        });
-    }
-</script>
 
 {{ "<!-- Main ParsleyJS -->" | safeHTML }}
-{{ $script := resources.Get "js/parsley.min.js" | minify}}
+{{ $script := resources.Get "js/parsley.js" | minify}}
+<script src="{{ $script.Permalink }}"></script>
+
+{{ "<!-- Main Contact -->" | safeHTML }}
+{{ $script := resources.Get "js/contact.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
 
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
