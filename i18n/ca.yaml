@@ -26,3 +26,7 @@
   translation: Missatge
 - id: alert
   translation: Missatge enviat amb èxit.
+- id: alert-succes
+  translation: Missatge enviat amb èxit.
+- id: alert-error
+  translation: El missatge NO s'ha pogut enviar.
