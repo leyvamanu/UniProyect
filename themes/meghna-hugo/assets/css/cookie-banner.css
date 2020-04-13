@@ -1,4 +1,3 @@
-/*Cookie Consent Begin*/
 #cookieConsent {
     background-color: rgba(20,20,20,0.8);
     min-height: 26px;
@@ -14,4 +13,23 @@
     display: none;
     z-index: 9999;
 }
-/*Cookie Consent End*/
+.modal{
+    color: #ffffff;
+    border-radius: 0px;
+    z-index: 99999;
+}
+.modal-header, .modal-footer{
+    border-radius: 0px;
+    background-color: #1d2024;
+}
+
+.modal-body{
+    background-color: #353b43;
+}
+
+.close{
+    color: #ffffff;
+}
+.close:hover{
+    color: #57cbcc;
+}
