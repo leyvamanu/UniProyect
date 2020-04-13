@@ -29,11 +29,11 @@
 - id: alert-error
   translation: El mensaje NO se ha podido enviar.
 - id: cookies
-  translation: Este sitio web utiliza cookies.
+  translation: Utilizamos cookies propias y de terceros para el análisis de sus hábitos de navegación. Si continúa navegando, consideramos que acepta su uso. Puede obtener 
 - id: cookies-ok
   translation: Esta bien
 - id: cookies-info
-  translation: Mas información
+  translation: Más información
 - id: error-form-required
   translation: Este dato  es obligatorio.
 - id: error-form-pattern-no-number
