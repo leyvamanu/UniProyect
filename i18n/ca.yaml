@@ -36,3 +36,12 @@
   translation: Esta be
 - id: cookies-info
   translation: Més informació
+  translation: Aquesta dada és obligatoria.
+- id: error-form-pattern-no-number
+  translation: Este dato no admite números.
+- id: error-form-email
+  translation: Aquesta dada no admet números.
+- id: error-form-alphanum
+  translation: La dada ha de ser alfanumèrica.
+- id: error-form-length
+  translation: La longitud d'aquesta dada no és vàlida. Ha de tenir entre 4 i 10000 caràcters de longitud.

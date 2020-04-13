@@ -34,3 +34,13 @@
   translation: Esta bien
 - id: cookies-info
   translation: Mas información
+- id: error-form-required
+  translation: Este dato  es obligatorio.
+- id: error-form-pattern-no-number
+  translation: Este dato no admite números.
+- id: error-form-email
+  translation: El dato debe ser un e-mail valido.
+- id: error-form-alphanum
+  translation: El dato debe alfanumerico.
+- id: error-form-length
+  translation: La longitud de este dato no es válida. Debe tener entre 4 y 10000 caracteres de longitud.

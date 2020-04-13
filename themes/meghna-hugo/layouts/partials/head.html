@@ -19,8 +19,12 @@
     {{ $styles := resources.Get "css/style.css" | minify}}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
-    {{"<!-- Main Cookie Baneer Stylesheet -->"|safeHTML}}
+    {{"<!-- Cookie Baneer Stylesheet -->"|safeHTML}}
     {{ $styles := resources.Get "css/cookie-banner.css" | minify}}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+
+    {{"<!-- Parsley Stylesheet -->"|safeHTML}}
+    {{ $styles := resources.Get "css/parsley.css" | minify}}
     <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
     {{ "<!--Favicon-->" | safeHTML }}

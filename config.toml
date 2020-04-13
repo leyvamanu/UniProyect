@@ -47,6 +47,8 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [[params.plugins.js]]
 link = "plugins/email/email.min.js"
+[[params.plugins.js]]
+link = "plugins/parsley/parsley.min.js"
 
 ############################# Navigation Español ##################################
 [[menu.main]]
