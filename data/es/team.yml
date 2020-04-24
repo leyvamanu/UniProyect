@@ -8,7 +8,7 @@ team:
       image_webp : images/team/team-1.webp
       image : images/team/team-1.jpg
       designation : Fundador/Desarrollador Web/Empresa
-      content : Manejo avanzado de tecnologías frontend y WordPress. Especialista en desarrollo de modelos de negocio.
+      content : Manejo avanzado de tecnologías frontend y WordPress. Especialista en desarrollo de modelos de negocio SaaS.
       social :
 #        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
 #          link : "#"
