@@ -26,7 +26,7 @@ team:
       image_webp : images/team/team-2.webp
       image : images/team/team-2.jpg
       designation : Fundador/Desenvolupador web/Sistemes
-      content : Desenvolupador web backend i administrador de sistemes GNU/Linux.
+      content : Administrador de sistemes Linux, automatitzador en entorns Cloud i desenvolupador d'aplicacions backend.
       social :
 #        - icon : ti-facebook # themify icon pack : https://themify.me/themify-icons
 #          link : "#"
