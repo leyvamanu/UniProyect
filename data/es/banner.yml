@@ -8,5 +8,5 @@ banner:
   content : "Ahora tienes la oportunidad de tener una web única y especial a la altura de lo que te mereces."
   button:
     enable : true
-    label : "Cómo lo hacemos??"
+    label : "Cómo lo hacemos?"
     link : "#services"
