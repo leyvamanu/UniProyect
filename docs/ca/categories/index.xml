@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on UniProyect</title>
-    <link>https://uniproyect.com/ca/categories/</link>
+    <link>//leyvamanu.github.io/UniProyect/ca/categories/</link>
     <description>Recent content in Categories on UniProyect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ca</language>
     
-	<atom:link href="https://uniproyect.com/ca/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//leyvamanu.github.io/UniProyect/ca/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
