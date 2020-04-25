@@ -3,6 +3,8 @@
 baseURL = "//leyvamanu.github.io/UniProyect"
 title = "UniProyect"
 theme = "meghna-hugo"
+#github-page
+publishDir = "docs"
 # post pagination
 paginate = "6"
 # post excerpt
