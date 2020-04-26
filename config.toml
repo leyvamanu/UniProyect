@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 #baseURL = "https://uniproyect.com"
-baseURL = "https://leyvamanu.github.io/UniProyect/"
+baseURL = "//leyvamanu.github.io"
 title = "UniProyect"
 theme = "meghna-hugo"
 #github-page
