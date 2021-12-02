@@ -11,5 +11,4 @@ $(document).ready(function () {
   let pDate = document.querySelector(".copyright");
   const date = new Date().getFullYear();
   pDate.children[02].innerHTML = `<p>Copyright © ${date} <a href="https://www.uniproyect.com">Uniproyect</a> todos los derechos reservados.</p>`;
-  ('<p>Copyright © 2021 <a href="https://www.uniproyect.com">Uniproyect</a> todos los derechos reservados.</p>');
 });
